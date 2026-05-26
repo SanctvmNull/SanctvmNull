@@ -67,11 +67,7 @@
   <a href="https://github.com/SanctvmNull">
     <br>
 
-<div align="center">
-  <a href="https://github.com/SanctvmNull">
-    <img src="https://raw.githubusercontent.com/SanctvmNull/SanctvmNull/main/060d2038-9d2e-46bf-a2ea-2631d0a22b36.jpg" alt="Mega Sableye Nightcore" width="250px">
-  </a>
-</div>
+
 
 <br>
     <img src="https://raw.githubusercontent.com/SanctvmNull/SanctvmNull/main/060d2038-9d2e-46bf-a2ea-2631d0a22b36.jpg" alt="Mega Sableye Nightcore" width="250px">
@@ -80,4 +76,5 @@
 
 <br>
 
+<br>
 
