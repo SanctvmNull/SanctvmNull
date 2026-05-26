@@ -61,13 +61,11 @@
 
 </div>
 
-https://github.com/SanctvmNull/SanctvmNull/blob/main/060d2038-9d2e-46bf-a2ea-2631d0a22b36.jpg?raw=true
-
 <br>
 
 <div align="center">
   <a href="https://github.com/SanctvmNull">
-    <img src="COLE_AQUI_O_LINK_DIRETO_DA_SUA_FIGURINHA" alt="Mega Sableye Nightcore" width="250px">
+    <img src="https://raw.githubusercontent.com/SanctvmNull/SanctvmNull/main/060d2038-9d2e-46bf-a2ea-2631d0a22b36.jpg" alt="Mega Sableye Nightcore" width="250px">
   </a>
 </div>
 
