@@ -1,5 +1,4 @@
 
-
 <div align="center">
   
   <img src="https://github.com/SanctvmNull/Nightcore7/raw/main/pokemon-room.png" alt="Dev Nightcore" width="100%">
